@@ -1,0 +1,66 @@
+
+/* Landing page */
+div#metadata-line.style-scope.ytd-grid-video-renderer{
+	display: none !important;	
+}
+
+/* Watch page - View count*/
+span.view-count {
+	display: none !important;
+}
+
+/* Watch page - Like buttons*/
+yt-formatted-string#text.style-scope.ytd-toggle-button-renderer {
+	display: none !important;	
+}
+
+/* Watch page - Subscription button*/
+span.style-scope.yt-formatted-string {
+	display: none !important;
+}
+
+/* Watch page - Suggestions views*/
+span.style-scope.ytd-video-meta-block {
+	display: none !important;
+}
+
+/* Watch page - Comments count*/
+yt-formatted-string.count-text.style-scope.ytd-comments-header-renderer{
+	display: none !important;
+}
+
+/* Watch page - Comments replies count*/
+paper-button.align-by-text.style-scope.ytd-comment-replies-renderer {
+	display: none !important;
+}
+
+/* Watch page - Comments replies like count*/
+span#vote-count-middle.style-scope.ytd-comment-action-buttons-renderer {
+	display: none !important;
+}
+          
+/* Creator page - Subscribers*/
+yt-formatted-string#subscriber-count  {
+	display: none !important;
+}
+
+/* Creator page - Featured Channels subscribers*/
+span#thumbnail-attribution {
+	display: none !important;	
+}
+
+/* Creator page - About Stats */
+div#right-column.style-scope.ytd-channel-about-metadata-renderer {
+	display: none !important;	
+}
+
+
+
+
+
+
+
+
+
+
+
